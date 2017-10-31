@@ -1,2 +1,3 @@
 # java-logical
-Java Logical Programms
+Java Logical Programmes Repository.
+Dont make me sad, this is my first one.
