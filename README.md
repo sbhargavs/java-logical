@@ -1,2 +1,2 @@
 # java-logical
-Java Logical Programms  Testing
+Java Logical Programms  Testing from GitHUb
